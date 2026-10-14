@@ -6,12 +6,7 @@ namespace SayiTahminOyunu
     {
         static void Main(string[] args)
         {
-            /*1. Sayı Tahmin ve İstatistik Oyunu
-              Proje Mantığı:
-
-              Program 1-100 arasında rastgele bir sayı tutar.
-              Kullanıcı tahminde bulundukça "Daha büyük bir sayı gir" veya "Daha küçük bir sayı gir" yönlendirmesi yapar.
-              Kullanıcı doğru bildiğinde kaç adımda bildiğini ve toplam puanını hesaplayıp konsola yazdırır.*/
+            
 
             int o = 1;
             int kactahmin = 1;
